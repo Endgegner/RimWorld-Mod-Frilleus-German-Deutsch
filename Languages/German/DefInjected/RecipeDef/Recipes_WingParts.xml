@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeSimpleProstheticWing.label>Herstellung einer Flügelprothese</MakeSimpleProstheticWing.label>
+  <MakeSimpleProstheticWing.description>Stelle eine Flügelprothese her.</MakeSimpleProstheticWing.description>
+  <MakeSimpleProstheticWing.jobString>Baut Prothese.</MakeSimpleProstheticWing.jobString>
+
+  <MakeBionicWing.label>Herstellung einer biomechanischen Flügelschwinge</MakeBionicWing.label>
+  <MakeBionicWing.description>Stelle eine biomechanischen Flügelschwinge her.</MakeBionicWing.description>
+  <MakeBionicWing.jobString>Baut Prothese.</MakeBionicWing.jobString>
+
+</LanguageData>

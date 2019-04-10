@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Frilleus.label>Frilleus</Frilleus.label>
+  <Frilleus.description>Ein sagenumwobener Drache der in kalten Regionen leben soll. Es heißt, er habe einen sanften Charakter und wäre nur agressiv, wenn man ihm reizt. Sein schönes Fell erzielt einen guten Preis.</Frilleus.description>
+  <Frilleus.tools.0.label>Linke Flügelklaue</Frilleus.tools.0.label>
+  <Frilleus.tools.1.label>Rechte Flügelklaue</Frilleus.tools.1.label>
+  <Frilleus.tools.3.label>Schwanz</Frilleus.tools.3.label>
+  <Frilleus_Leather.label>Frilleus Leder</Frilleus_Leather.label>
+  <Frilleus_Leather.description>Frilleus Leder</Frilleus_Leather.description>
+  <Frilleus_Leather.stuffProps.stuffAdjective>Frilleus Leder</Frilleus_Leather.stuffProps.stuffAdjective>
+  <Frilleus_Meat.label>Frilleus Fleisch</Frilleus_Meat.label>
+  <Frilleus_Meat.description>Frilleus Fleisch</Frilleus_Meat.description>
+  <Frilleus_Corpse.label>Frilleus Kadaver</Frilleus_Corpse.label>
+  <Frilleus_Corpse.description>Frilleus Kadaver</Frilleus_Corpse.description>
+
+</LanguageData>

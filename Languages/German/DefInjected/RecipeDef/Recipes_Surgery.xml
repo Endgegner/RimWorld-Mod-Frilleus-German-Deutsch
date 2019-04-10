@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallSimpleProstheticWing.label>Installation einer Flügelprothese</InstallSimpleProstheticWing.label>
+  <InstallSimpleProstheticWing.description>Installieren einer Flügelprothese. Benötigt medizinische Stufe 4 oder höher.</InstallSimpleProstheticWing.description>
+  <InstallSimpleProstheticWing.jobString>Tierprothese installieren.</InstallSimpleProstheticWing.jobString>
+
+  <InstallBionicWing.label>Installation einer biomechanischen Flügelschwinge</InstallBionicWing.label>
+  <InstallBionicWing.description>Installieren eines biomechanischen Flügels. Benötigt medizinische Stufe 8 oder höher.</InstallBionicWing.description>
+  <InstallBionicWing.jobString>Tierprothese installieren.</InstallBionicWing.jobString>
+
+</LanguageData>

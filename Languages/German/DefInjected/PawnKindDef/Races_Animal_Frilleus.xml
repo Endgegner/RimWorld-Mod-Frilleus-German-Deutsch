@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Frilleus.label>Frilleus</Frilleus.label>
+  <Frilleus.labelPlural>Frilleuss</Frilleus.labelPlural>
+  <Frilleus.lifeStages.0.label>Frilleus Junges</Frilleus.lifeStages.0.label>
+  <Frilleus.lifeStages.0.labelPlural>Frilleus Jungen</Frilleus.lifeStages.0.labelPlural>
+  <Frilleus.lifeStages.0.labelMale>Frilleus Junges</Frilleus.lifeStages.0.labelMale>
+  <Frilleus.lifeStages.0.labelMalePlural>Frilleus Jungen</Frilleus.lifeStages.0.labelMalePlural>
+  <Frilleus.lifeStages.0.labelFemale>Frilleus Junges</Frilleus.lifeStages.0.labelFemale>
+  <Frilleus.lifeStages.0.labelFemalePlural>Frilleus Jungen</Frilleus.lifeStages.0.labelFemalePlural>
+  <Frilleus.lifeStages.1.label>Frilleus Jungtier</Frilleus.lifeStages.1.label>
+  <Frilleus.lifeStages.1.labelPlural>Frilleus Jungtier</Frilleus.lifeStages.1.labelPlural>
+  <Frilleus.lifeStages.1.labelMale>Frilleus Jungtier</Frilleus.lifeStages.1.labelMale>
+  <Frilleus.lifeStages.1.labelMalePlural>Frilleus Jungtier</Frilleus.lifeStages.1.labelMalePlural>
+  <Frilleus.lifeStages.1.labelFemale>Frilleus Jungtier</Frilleus.lifeStages.1.labelFemale>
+  <Frilleus.lifeStages.1.labelFemalePlural>Frilleus Jungtier</Frilleus.lifeStages.1.labelFemalePlural>
+  <Frilleus.lifeStages.2.label>Frilleus</Frilleus.lifeStages.2.label>
+  <Frilleus.lifeStages.2.labelPlural>Frilleus</Frilleus.lifeStages.2.labelPlural>
+  <Frilleus.lifeStages.2.labelMale>Frilleus Männchen</Frilleus.lifeStages.2.labelMale>
+  <Frilleus.lifeStages.2.labelMalePlural>Frilleus Männchen</Frilleus.lifeStages.2.labelMalePlural>
+  <Frilleus.lifeStages.2.labelFemale>Frilleus Weibchen</Frilleus.lifeStages.2.labelFemale>
+  <Frilleus.lifeStages.2.labelFemalePlural>Frilleus Weibchen</Frilleus.lifeStages.2.labelFemalePlural>
+  <Frilleus.labelMale>Männlicher Frilleus</Frilleus.labelMale>
+  <Frilleus.labelMalePlural>Männliche Frilleuss</Frilleus.labelMalePlural>
+  <Frilleus.labelFemale>Weiblicher Frilleus</Frilleus.labelFemale>
+  <Frilleus.labelFemalePlural>Weibliche Frilleuss</Frilleus.labelFemalePlural>
+
+</LanguageData>

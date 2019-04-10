@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Frilleus Wolle -->
+  <FrilleusWool.label>Frilleus Vließ</FrilleusWool.label>
+  <FrilleusWool.description>Die Wolle eines Frilleus ist für gewöhnlich viel weicher und wärmer als von anderen Geschöpfen.</FrilleusWool.description>
+  <FrilleusWool.stuffProps.stuffAdjective>Frilleus Vließ</FrilleusWool.stuffProps.stuffAdjective>
+  <!-- Frilleus Fell -->
+  <Leather_Frilleus.label>Frilleus Samt</Leather_Frilleus.label>
+  <Leather_Frilleus.description>Das Fell eines Frilleus. Es ist schwer zu durchdringen und isoliert gut gegen Hitze.</Leather_Frilleus.description>
+  <Leather_Frilleus.stuffProps.stuffAdjective>Frilleus Samt</Leather_Frilleus.stuffProps.stuffAdjective>
+
+</LanguageData>

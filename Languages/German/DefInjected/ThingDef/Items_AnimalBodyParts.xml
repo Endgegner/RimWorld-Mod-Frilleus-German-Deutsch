@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SimpleProstheticWing.label>Einfache Flügelprothese</SimpleProstheticWing.label>
+  <SimpleProstheticWing.description>Eine simple Flügelprothese zur Restaurierung der verlorenen Flugfähigkeit.</SimpleProstheticWing.description>
+
+  <BionicWing.label>Bionische Schwinge</BionicWing.label>
+  <BionicWing.description>Eine biomechanischen Flügelschwinge.</BionicWing.description>
+
+</LanguageData>
