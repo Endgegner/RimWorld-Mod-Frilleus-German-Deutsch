@@ -1,5 +1,7 @@
 # RimWorld-Mod-Frilleus-German-Deutsch
-Deutsch Übersetzung des RimWorld-Mods Frilleus (GER/DE Translation) 
+Deutsch Übersetzung des RimWorld-Mods Frilleus (GER/DE Translation)
+
+Wurde bereits vom Author in den existierenden Mod eingebettet!
 
 # License
 - You may change, edit, modify the code and even take this whole thing as a template for your mods.
